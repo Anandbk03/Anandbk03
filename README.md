@@ -1,5 +1,5 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-# 💫 About Me:
+💫 About Me:
 Hi there! I'm a final-year BTech Computer Science Engineering student with a strong passion for software development and problem-solving.<br>Looking forward to collaborating on innovative projects.
 
 

@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Anandbk03&label=Profile%20views&color=0e75b6&style=flat" alt="Anandbk03" /> 
 </p>
 
-## 💫 About Me:
+💫 About Me:
 🎓 **Computer Science Engineering Student.**<br>
 🔭 I’m interested in competitive programming.<br>
 👯 I’m looking to collaborate on innovative projects.<br>

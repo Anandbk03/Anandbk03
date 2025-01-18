@@ -11,7 +11,7 @@
 
 
 ## 💫 About Me:
-🎓 **Computer Science Engineering Student**
+🎓 **Computer Science Engineering Student**<br>
 🔭 I’m interested in competitive programming.<br>👯 I’m looking to collaborate on innovative projects.<br>🌱 I’m currently learning Java and Ethical Hacking.<br>
 
 

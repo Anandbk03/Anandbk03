@@ -6,7 +6,7 @@
 </h1>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anirudhps1066&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhps1066" /> 
+  <img src="https://komarev.com/ghpvc/?username=Anandbk03&label=Profile%20views&color=0e75b6&style=flat" alt="Anandbk03" /> 
 </p>
 
 

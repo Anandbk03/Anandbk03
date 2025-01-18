@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anirudh...&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anand...&center=true&size=30">
   </a>
 </h1>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -12,38 +12,31 @@
 
 🎓 **Computer Science Engineering Student**
 
-- 👀 I’m interested in Competitive Programming and Web Development.                                    
-- 🌱 I’m currently learning DSA.
-- 👯 I’m looking to collaborate on Web Development projects
-- 📫 How to reach me: 
-  <br /> 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anirudh-ps-944598338/)
-- 😄 Pronouns: Techie😅
-
-<img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
-
-### 👨‍💻 Tech Stack
-<p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/javascript.png" alt="javascript"/>
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-excel.png" alt="ms-excel"/>
-  <img width="48" height="48" src="https://img.icons8.com/dusk/64/power-bi.png" alt="power-bi"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+-# 💫 About Me:
+🔭 I’m interested in competitive programming.<br>👯 I’m looking to collaborate on innovative projects.<br>🌱 I’m currently learning Java and Ethical Hacking.<br>
 
 
-## 📊Leetcode Stats
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/anirudhpss?theme=dark&font=Vesper%20Libre&ext=contest" style="width: 500px; height: 300px;" />
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandbalakrishnann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandbalakrishnan03) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anandbk03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anandbk03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandbk03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Anandbk03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Anandbk03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## GitHub Profile Card
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudhps1066&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anandbk03&theme=github_dark)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;Let's+Connect...&center=true&size=30" />
@@ -51,10 +44,7 @@
 </h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=Anandbk03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>

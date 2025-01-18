@@ -12,13 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=Anandbk03&label=Profile%20views&color=0e75b6&style=flat" alt="Anandbk03" /> 
 </p>
 
-💫 About Me:
+💫 About Me:<br>
 🎓 **Computer Science Engineering Student.**<br>
 🔭 I’m interested in competitive programming.<br>
 👯 I’m looking to collaborate on innovative projects.<br>
 🌱 I’m currently learning Java and Ethical Hacking.<br>
 
-🌐 Socials:
+🌐 Socials:<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandbalakrishnann) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandbalakrishnan03)
 

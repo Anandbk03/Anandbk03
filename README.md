@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anand...&center=true&size=30">
   </a>
 </h1>
-<img align="right" width="420" height="270" src="https://github.com/Anandbk03/Anandbk03/blob/main/mario.gif">
+<img align="right" width="500" height="270" src="https://github.com/Anandbk03/Anandbk03/blob/main/mario.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Anandbk03&label=Profile%20views&color=0e75b6&style=flat" alt="Anandbk03" /> 
 </p>

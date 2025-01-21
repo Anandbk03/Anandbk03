@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img align="right" width="430" height="260" src="https://github.com/Anandbk03/Anandbk03/blob/main/mario.gif">
+<img align="right" width="430" height="260" src="[https://github.com/Anandbk03/Anandbk03/blob/main/mario.gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)">
 
 <p align="left" style="margin: 0; padding: 0;"> 
   <img src="https://komarev.com/ghpvc/?username=Anandbk03&label=Profile%20views&color=0e75b6&style=flat" alt="Anandbk03" /> 

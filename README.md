@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img align="right" width="410" height="260" src="readm.gif">
+<img align="right" width="410" height="280" src="readm.gif">
 
 <p align="left" style="margin: 0; padding: 0;"> 
   <img src="https://komarev.com/ghpvc/?username=Anandbk03&label=Profile%20views&color=0e75b6&style=flat" alt="Anandbk03" /> 
